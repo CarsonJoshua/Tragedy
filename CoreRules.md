@@ -91,5 +91,5 @@
 * **0.5.4** Enter Stage is a Phase.
     * **0.5.4.1** During the Enter Stage Phase, players get priority.
 #### End Scene
-* 0.5.4 End Scene is a Phase.
+* **0.5.4** End Scene is a Phase.
     * **0.5.4.1** During the End Scene Phase, players get priority.
