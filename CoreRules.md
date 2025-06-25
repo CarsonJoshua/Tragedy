@@ -4,6 +4,7 @@
 * **0.0.1** The rules of Tragedy provide the framework for how to use cards from other games in Tragedy, and so Tragedy rules take precedence.
 * **0.0.2** When two Tragedy rules conflict, the rule with the earlier decimal outline numbering takes precedence.  If the later rule is exceptional, it instead takes precedence.  A rule is exceptional if it describes an exception or a conditional where a new rule implies instead of the base rule.
 * **0.0.3** When two rule elements have the same name, they are the same rule element unless specified otherwise.
+* **0.0.4** Compatibility rules are lower precedence than the lower precedence of the two rules sets being made compatible.
 
 ## 0.1 Base Rules
 * **0.1.1** Each player has a Deck of at least 40 cards of the same size.  
