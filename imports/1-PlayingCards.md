@@ -4,7 +4,7 @@
 * **1.0.1** Within 1 Playing Cards, a card refers to a playing card, and Tragedy card refers to a playing card or another type of card. 
 
 ## 1.2 Properties
-* **1.2.1** Rank is a property.  Each card has a Rank.  The Ranks are '2','3','4','5','6','7','8','9','10','J','Q','K','A'.  Each Rank correlates to a Value.  Each numbered Rank correlates to the equal Value.  'J','Q','K' correlate to a Value of 10.  'A' correlates to a Value of 1 or 11, chosen when the card is played.
+* **1.2.1** Rank is a property.  Each card has a Rank.  The Ranks are '2','3','4','5','6','7','8','9','10','J','Q','K','A'.  Each Rank correlates to a Value.  Each numbered Rank correlates to the equal Value.  'J','Q','K' correlate to a Value of 10.  'A' correlates to a Value of 1 or 11, chosen when the card is played.  Before being played, 'A' has a Value of 1.
 * **1.2.2** Suit is a property.  Each card has a Suit.  The Suits are 'Spades','Hearts','Diamonds','Clubs'.
 
 ## 1.3 Rules
