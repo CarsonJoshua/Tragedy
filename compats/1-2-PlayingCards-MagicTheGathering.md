@@ -12,4 +12,4 @@
 * **1-2.10.6**  As 'Rally the Ranks' enters the battlefield, its controller may choose a Suit instead of a creature type.  Cards he controls of that Suit have +1 Rank.
 * **1-2.10.7**  'Heartless Hidetsugu', 'Heartless Summoning', and 'Omega, Heartless Evolution' can never be of the Heart Suit or be attached to Heart cards.
 * **1-2.10.8**  'Change of Heart' may instead gives a nonHeart card in play the Heart Suit until end of scene, or make a Heart card suitless until end of scene.
-* **1-2.10.8**  'Heart Sliver' additionally gives all Slivers the Heart Suit.
+* **1-2.10.9**  'Heart Sliver' additionally gives all Slivers the Heart Suit.
