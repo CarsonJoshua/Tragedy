@@ -1,5 +1,5 @@
 # Core Rules
-The [core rules](CoreRules.md) of Tragedy form a framework that other card games fit into.  The compatibilities below define the rules for how cards from other card games fit into this framework.
+The [core rules](0-CoreRules.md) of Tragedy form a framework that other card games fit into.  The compatibilities below define the rules for how cards from other card games fit into this framework.
 
 # Imports
 * [Playing Cards](imports/PlayingCards.md)

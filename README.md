@@ -1,2 +1,2 @@
 # Tragedy
-Welcome to Tragedy!  Check out the [core rules](CoreRules.md) or head over to the [index](RulesIndex.md) to see compatible card games.
+Welcome to Tragedy!  Check out the [core rules](0-CoreRules.md) or head over to the [index](RulesIndex.md) to see compatible card games.
