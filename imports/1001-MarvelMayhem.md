@@ -12,6 +12,7 @@
 * **1001.3.2** A player may only play one Marvel Mayhem card per turn.
 * **1001.3.3** If a Marvel Mayhem card's effect does not specify a specific trigger, the effect takes place when the card resolves.
 * **1001.3.4** The order of resolution for cards with multiple symbols is Healing, Attack, Draw & Play, Defense.
+* **1001.3.5** A Deck cannot contain cards from more than one of the four Marvel Mayhem decksL Black Panther, Captain Marvel, Scarlet Witch, and Iron Man.
 
 ## 1001.4 Roles
 * **1001.4.1** The following cards are Actors: Shuri, Dora Milaje, General Okoye, Nick Fury, Ms. Marvel, Goose, Quicksilver, Vision, The Witch, War Machine
