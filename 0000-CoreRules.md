@@ -65,12 +65,12 @@
     * **0000.4.2.1** A Set can only be played during the Enter Stage Phase while the Stack is empty.
 #### Prop
 * **0000.4.3** Prop is a Role.
-    * **0000.4.3.1** A Prop can only be played during the Enter Stage Phase while the Stack is empty.
-    * **0000.4.3.2** A Prop must be attached to an Actor.  Which Actor it will be attached to is chosen when it is played.  An Actor can only have one Prop attached to it.  If a Prop is not attached to an Actor, it is removed from play.
+    * **0000.4.3.1** A Prop can only be played during the Enter Stage Phase while the Stack is empty.  An Actor for it to attach to must be selected when played.
+    * **0000.4.3.2** A Prop must be attached to an Actor. An Actor can only have one Prop attached to it.  If a Prop is not attached to an Actor, it is removed from play.
 #### Set Piece
 * **0000.4.4** Set Piece is a Role.
-    * **0000.4.4.1** A Set Piece can only be played during the Enter Stage Phase while the Stack is empty.
-    * **0000.4.3.2** A Set Piece must be attached to a Set.  Which Set it will be attached to is chosen when it is played.  A Set can only have one Set Piece attached to it.  If a Set Piece is not attached to a Set, it is removed from play.
+    * **0000.4.4.1** A Set Piece can only be played during the Enter Stage Phase while the Stack is empty.  A Set for it to attach to must be selected when played.
+    * **0000.4.3.2** A Set Piece must be attached to a Set.  A Set can only have one Set Piece attached to it.  If a Set Piece is not attached to a Set, it is removed from play.
 #### Act
 * **0000.4.5** Act is a Role.
 
