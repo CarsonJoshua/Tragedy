@@ -2,10 +2,10 @@
 The [core rules](0-CoreRules.md) of Tragedy form a framework that other card games fit into.  The compatibilities below define the rules for how cards from other card games fit into this framework.
 
 # Imports
-* [Playing Cards](imports/PlayingCards.md)
-* [Magic the Gathering](imports/MagicTheHathering.md)
-* [Marvel Mayhem](imports/MarvelMayhem.md)
-* [SkipBo Junior](imports/SkipBoJunior.md)
+* [Playing Cards](imports/1-PlayingCards.md)
+* [Magic the Gathering](imports/2-MagicTheHathering.md)
+* [Marvel Mayhem](imports/1001-MarvelMayhem.md)
+* [SkipBo Junior](imports/1002-SkipBoJunior.md)
 
 # Compatibilites
 * [Playing Cards / Magic the Gathering](compats/1-2-PlayingCards-MagicTheGathering.md)
