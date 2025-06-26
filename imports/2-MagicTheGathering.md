@@ -21,6 +21,8 @@
 * **2.2.1** Power is a Property.
 * **2.2.2** Toughness is a Property.
 * **2.2.3** Loyalty is a Property.
+* **2.2.4** Type is a Property.
+* **2.2.4** Subtype is a Property.
 
 ## 2.3 Rules
 * **2.3.1** Exile is a Zone.
@@ -31,6 +33,7 @@
 
 
 ## 2.4 Phases
+* **2.4.0** When a Magic the Gathering card is in play, Magic the Gathering phases occur, as described below.
 * **2.4.1** 1st Main Phase is Skipped.
 * **2.4.2** Combat Phase occurs during the After Performance phase.
     * **2.4.2.1** During Combat Phase, the attackers and blockers must be Combatants, and attackers must be attacking a Combat Target.
