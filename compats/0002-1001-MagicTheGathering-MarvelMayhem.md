@@ -10,4 +10,6 @@
 * **0002-1001.10.4** The following cards have the Artifact type and Construct subtype: Vision, War Machine
 * **0002-1001.10.5** The following cards have the Spellshaper subtype: The Witch
 * **0002-1001.10.6** The following cards have the Artifact type and Equipment subtype: Energy Dagger, Spear of Bashenga, Kimoyo Beads
+* **0002-1001.10.7** King of Wakanda grants the attached Actor the Noble subtype.
+* **0002-1001.10.8** Kree DNA grants the attached Actor the Alien subtype.
 

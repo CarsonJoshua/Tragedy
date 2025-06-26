@@ -17,7 +17,7 @@
 ## 1001.4 Roles
 * **1001.4.1** The following cards are Actors: Shuri, Dora Milaje, General Okoye, Nick Fury, Ms. Marvel, Goose, Quicksilver, Vision, The Witch, War Machine
 * **1001.4.2** The following cards are Sets: Ancestral Plane
-* **1001.4.3** The following cards are Props: King of Wakanda, Energy Dagger, Divine Empowerment, Spear of Bashenga, Heart-Shaped Herb, Kimoyo Beads, What Are You Looking At?, Kree DNA, Doesn't Even Hurt!, Whatever it Takes, Psychic Defense, 'Geius, Biollionaire, Philanthropist', Heads-Up!, Rescue, Pew-Pew!, Iron Sights, You Know Who I Am
+* **1001.4.3** The following cards are Props: King of Wakanda, Energy Dagger, Divine Empowerment, Spear of Bashenga, Heart-Shaped Herb, Kimoyo Beads, What Are You Looking At?, Kree DNA, Doesn't Even Hurt!, Whatever it Takes, Psychic Defense, 'Genius, Biollionaire, Philanthropist', Heads-Up!, Rescue, Pew-Pew!, Iron Sights, You Know Who I Am
 * **1001.4.4** The following cards are Set Pieces: Wakanda Forever, Reality Distortion, Reality Warp
 
 ## 1001.5 Symbols
