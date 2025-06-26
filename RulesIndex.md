@@ -3,7 +3,7 @@ The [core rules](0000-CoreRules.md) of Tragedy form a framework that other card 
 
 # Imports
 * [Playing Cards](imports/0001-PlayingCards.md)
-* [Magic the Gathering](imports/0002-MagicTheHathering.md)
+* [Magic the Gathering](imports/0002-MagicTheGathering.md)
 * [Marvel Mayhem](imports/1001-MarvelMayhem.md)
 * [SkipBo Junior](imports/1002-SkipBoJunior.md)
 
