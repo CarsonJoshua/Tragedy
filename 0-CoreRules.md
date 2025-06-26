@@ -8,7 +8,7 @@
 * **0.0.5** Compatibility rules are lower precedence than the lower precedence of the two rules sets being made compatible.
 
 ## 0.1 Base Rules
-* **0.1.1** Each player has a Deck of at least 40 cards of the same size.  
+* **0.1.1** Each player has a Deck of at least 40 cards of the same size. Each Deck may have no more than one of each card.
 * **0.1.2** Each player starts with a Hand of seven cards drawn from the Deck.
 * **0.1.3** The first player is determined randomly.  Play begins with the first player's turn and proceeds counterclockwise.
 * **0.1.4** The player who is taking their turn is the active player.
