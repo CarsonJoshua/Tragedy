@@ -1,0 +1,2 @@
+## Import Ordering Note
+Range 0001-1000 is for games I'm adding compatibility for because I like the base game.  Range 1001-2000 is for games I'm adding because I found them in a thrift store.  Range 2001-3000 is for games I'm adding because someone requested them.
