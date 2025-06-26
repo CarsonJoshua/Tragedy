@@ -49,7 +49,7 @@
 #### Stack
 * **0.3.6** The Stack is a Zone.
     * **0.3.6.1** When a card is played, it becomes an Act in the Stack.
-    * **0.3.6.2** When an Act or Acts are on the Stack, each time each player has had priority in sequence without adding an Act to the Stack, the latest Act to have been added to the Stack is resolved.
+    * **0.3.6.2** When an Act or Acts are on the Stack, each time each player has had priority in sequence without adding an Act to the Stack, the latest Act to have been added to a Stack is resolved.
     * **0.3.6.3** When an Act is resolved from the Stack, it may have some effect, then it is removed from the Stack.  If the effect does not include it being moved to another Zone, it is removed from play.
     * **0.3.6.4** When an Act is added or removed from the Stack, players get priority.
 
