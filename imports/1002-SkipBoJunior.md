@@ -10,7 +10,7 @@
 * **1002.2.1** The number printed on the Skipbo card is the cards Value.  The Wild "?" Card has a Value of 1 while not in play.
 
 ## 1002.3 Rules
-* **1002.3.1** A Skipbo card can of Value greater than 1 can only be played over top of another Actor with a Value exactly one less.
+* **1002.3.1** A Skipbo card of Value greater than 1 can only be played over top of another Actor with a Value exactly one less.
 * **1002.3.2** An Actor beneath a Skipbo card cannot be interacted with by any game element.  If the Skipbo card is removed from play, the card beneath it remains in its Zone and is no longer beneath the Skipbo card.
 * **1002.3.3** In addition to being able to be played alone as an Actor of Value 1, the Wild "?" Card can be played over top of another Actor.  When this is done, the Wild "?" Card has a Value of 1 greater than the Value of the Actor it is over top.
 * **1002.3.4** If an Actor is removed from play, any Skipbo card that would have been played on it, but has yet to resolve, is removed from play.
