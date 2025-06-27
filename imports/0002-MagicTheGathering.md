@@ -27,7 +27,7 @@
 ## 0002.3 Rules
 * **0002.3.1** Exile is a Zone.
     * **0002.3.1.1** When the Discard becomes the Deck, Exile becomes the Discard.
-* **0002.3.2** Players do not have life totals.  When a player would lose life, he instead loses 50 Audiance Favor per life that would have been lost.  If this would bring the player's Audiance Favor below 0, it brings it to 0 instead.  When a player would gain life, he instead gains 50 Audiance Favor per life that would have been gained.  If this would bring the player's Audiance Favor above 900, it brings it to 900 instead.
+* **0002.3.2** Players do not have life totals.  When a player would lose life, he instead loses 50 Audiance Favor per life that would have been lost.  If this would bring the player's Audiance Favor below 0, it brings it to 0 instead.  When a player would gain life, he instead gains 50 Audiance Favor per life that would have been gained.  If this would bring the player's Audiance Favor above 900, it brings it to 800 instead.
 * **0002.3.3** Players do not lose the game from poison counters.  When a player gains a poison counter, he loses 50 Audiance Favor per poison counter that is gained.  If this would bring the player's Audiance Favor below 0, it brings it to 0 instead.
 
 
