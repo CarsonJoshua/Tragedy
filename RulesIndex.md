@@ -9,6 +9,7 @@ The [core rules](0000-CoreRules.md) of Tragedy form a framework that other card 
 
 # Compatibilites
 * [Playing Cards / Magic the Gathering](compats/0001-0002-PlayingCards-MagicTheGathering.md)
+* [Playing Cards / Marvel Mayhem](compats/0001-1001-PlayingCards-MarvelMayhem.md)
 * [Magic the Gathering / Marvel Mayhem](compats/0002-1001-MagicTheGathering-MarvelMayhem.md)
 * [Magic the Gathering / SkipBo Junior](compats/0002-1002-MagicTheGathering-SkipBoJunior.md)
 
