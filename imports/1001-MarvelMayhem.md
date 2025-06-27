@@ -15,7 +15,7 @@
 
 ## 1001.4 Roles
 * **1001.4.1** Defense cards are Actors.
-* **1001.4.1** All other cards are Acts.
+* **1001.4.2** All other cards are Acts.
 
 ## 1001.5 Symbols
 * **1001.5.1** Attack is a Symbol.
