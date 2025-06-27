@@ -14,5 +14,5 @@
 * **0001.3.2** The Joker has a Rank of 0.  
     * **0001.3.2.1** The Joker can have two Props or Set Pieces attached instead of one.  
     * **0001.3.2.2** The Joker is an exception and does not require Props to Set Pieces to match Suit.
-    The Joker can be tapped to create an Act that reduces the Value of a card in play to 0 until the end of the scene.
+    * **0001.3.2.3** The Joker can be tapped to create an Act that reduces the Value of a card in play to 0 until the end of the scene.
 * **0001.3.2** A player can play two cards of matching Rank as a single Act to draw a card.
