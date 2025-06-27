@@ -89,8 +89,9 @@
     * **0000.5.2.3** The Draw Step is a Step.  During the Draw Step, the active player draws a card.
 #### Performance
 * **0000.5.3** Performance is a Phase.
-    * **0000.5.3.1** During Performance, the active player gets priority.
-    * **0000.5.3.2** Once during each Performance, the active player may score.  A player can only score when he has priority.  To score, the player must tap one Actor he controls and one Set he controls, along with any attached Props and Set Pieces.  The Value of the Actor is added to the Value of the Props.  The Value of the Set is added to the Value of the Set Pieces.  The sums are multiplied together.  The product is added to the players Audience Favor.
+    * **0000.5.3.1** Acts cannot be put on the Stack during the Performance.
+    * **0000.5.3.1** Once during each Performance, the active player may score.  To score, the player must tap one Actor he controls and one Set he controls, along with any attached Props and Set Pieces.  The Value of the Actor is added to the Value of the Props.  The Value of the Set is added to the Value of the Set Pieces.  The sums are multiplied together.  The product is added to the players Audience Favor.
+    * **0000.5.3.2** When a player is scoring, after he has selected his Actor and Set but before the Audience Favor is calculated, other players may remove from play Actors and Sets they control.  Each Actor removed reduces the Value of the performing Actor by the Value of the sacrificed Actor. Each Set removed reduces the Value of the performing Set by the Value of the sacrificed Set.  These reductions cannot reduce the Value of the performing cards below 0, but it can reduce the Value, including the Value of the Props and Set Pieces, to 0.
 #### After Performance
 * **0000.5.4** After Performance is a Phase.
     * **0000.5.4.1** During the After Performance Phase, players get priority.
