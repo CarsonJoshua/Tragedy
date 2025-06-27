@@ -20,7 +20,7 @@
 
 ## 1001.5 Symbols
 * **1001.5.1** Attack is a Symbol.
-    * **1001.5.1.1** When an Attack card is played, the player choose one player or Defense card as the target of that attack.  A chosen player loses 100 Audience Favor per Attack symbol, to a minimum of 0.  A chosen Defense card is damaged equal to the number of Attack Symbols.
+    * **1001.5.1.1** When an Attack card is played, the player choose one player or Defense card as the target of that attack.  A chosen player with no Defense cards in play loses 100 Audience Favor per Attack symbol, to a minimum of 0.  A chosen Defense card is damaged equal to the number of Attack Symbols.
 * **1001.5.2** Defense is a Symbol.
     * **1001.5.2.1** When a Defense card is damaged, put on it a number of Damage counter equal to the damage.  Each Damage counter counteracts a Defense Symbol.  When it has run out of Defense Symbols, it is removed from play and any excess counters effect its controller as an attack.
 * **1001.5.3** Draw & Play is a Symbol.
