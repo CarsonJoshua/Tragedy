@@ -33,9 +33,11 @@
     * **0000.3.1.1** When a card is drawn, it is moved from the Deck to the Hand.
     * **0000.3.1.2** When there are no cards in the Deck, and a card should be drawn, the Discard is shuffled and becomes the Deck, then the card is drawn.
     * **0000.3.1.3** Except when there are no cards in the Deck or the Discard and a card should be drawn, the draw is skipped.
+    * **0000.3.1.4** Cards in the Deck are face down and cannot be seen by any player.
 #### Hand
 * **0000.3.2** The Hand is a Zone.
     * **0000.3.2.1** A card can only be played while it is in the Hand.
+    * **0000.3.2.2** Cards in the Hand can only be seen by the player who controls them.
 #### Actor Tableau
 * **0000.3.3** The Actor Tableau is a Zone.
     * **0000.3.3.1** When a card is an Actor or Prop, it is in the Actor Tableau.
