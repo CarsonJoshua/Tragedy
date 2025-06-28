@@ -16,3 +16,10 @@
     * **0001.3.2.2** The Joker is an exception and does not require Props to Set Pieces to match Suit.
     * **0001.3.2.3** The Joker can be tapped to create an Act that reduces the Value of a card in play to 0 until the end of the scene.
 * **0001.3.2** A player can play two cards of matching Rank as a single Act to draw a card.
+
+## 0001.10 Compatibility
+* **0001.10.1** Cards whose name contains the word 'Spade' are of the Suit 'Spades'.
+* **0001.10.2** Cards whose name contains the word 'Heart' are of the Suit 'Hearts'.
+* **0001.10.3** Cards whose name contains the word 'Diamond' are of the Suit 'Diamonds'.
+* **0001.10.4** Cards whose name contains the word 'Club' are of the Suit 'Clubs'.
+* **0001.10.5** Each playing card has a Color.  Playing cards of the Suit 'Spades' or 'Clubs' are black, and playing cards of the Suit 'Hearts' or 'Diamonds' are red.

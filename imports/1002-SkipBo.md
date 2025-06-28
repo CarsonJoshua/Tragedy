@@ -21,5 +21,3 @@
 ## 1002.9 Skip-Bo Junior
 * **1002.2.1** Skip-Bo Junior cards have a Color of the background of the card.
 * **1002.2.2** The Wild "?" Card has the same rules as the Skip-Bo card.  The Wild "?" Card is orange instead of blue.
-
-## 1002.10 Compatibility

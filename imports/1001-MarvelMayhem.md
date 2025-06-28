@@ -27,3 +27,8 @@
 * **1001.5.4** Healing is a Symbol.
     * **1001.5.4.1** When a Healing card is played, the player heals a point per Healing Symbol.
 * **1001.5.5** Each of the twelve Super Powers are Symbols.
+
+## 1001.10 Compatibility
+* **0002-1001.2.1** Marvel Mayhem Actors have Power equal to their number of Attack Symbols and Toughness equal to their number of Defense Symbols.
+* **0002-1001.2.2** Cards from the Black Panther deck are black.
+* **0002-1001.2.3** Cards from the Scarlet Witch deck are red.
