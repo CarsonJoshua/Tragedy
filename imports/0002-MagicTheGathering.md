@@ -23,6 +23,7 @@
 * **0002.2.3** Loyalty is a Property.
 * **0002.2.4** Type is a Property.
 * **0002.2.4** Subtype is a Property.
+* **0002.2.4** Rarity is a Property.
 
 ## 0002.3 Rules
 * **0002.3.1** Exile is a Zone.
