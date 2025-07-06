@@ -17,9 +17,26 @@
     * **0001.3.2.3** The Joker can be tapped to create an Act that reduces the Value of a card in play to 0 until the end of the scene.
 * **0001.3.2** A player can play two cards of matching Rank as a single Act to draw a card.
 
+## 0001.9 Other Patterns
+### German-suited
+* **0001.9.1** German-suited playing cards have the following exceptions.
+* **0001.9.1.1** German-suited playing cards include the Ranks 'U' and 'O', both correlating to a Value of 10. German-suited playing cards also include the Rank 'D', correlated to a Value of 2 or 11, chosen when the card is played.  Before being played, 'D' has a Value of 2.
+* **0001.9.1.2** German-suited playing cards include the Suits 'Bells', 'Acorns', 'Leaves'.
+### Spanish-suited
+* **0001.9.2** Spanish-suited playing cards have the following exceptions.
+* **0001.9.2.1** Spanish-suited playing cards include the Ranks '11' and '12'
+* **0001.9.2.2** Spanish-suited playing cards include the Suits 'Swords', 'Cups', 'Coins'.
+### Italian-suited
+* **0001.9.3** Italian-suited playing cards have the following exceptions.
+* **0001.9.3.2** Italian-suited playing cards include the Suits 'Swords', 'Cups', 'Coins'.  'Batons' are 'Clubs'
+### Swiss-suited
+* **0001.9.4** Swiss-suited playing cards have the following exceptions.
+* **0001.9.4.1** Swiss-suited playing cards include the Ranks 'B', 'U' and 'O', all correlating to a Value of 10.  Swiss-suited playing cards also include the Rank 'D', correlated to a Value of 2 or 11, chosen when the card is played.  Before being played, 'D' has a Value of 2.
+* **0001.9.4.2** Swiss-suited playing cards include the Suits 'Bells', 'Shields', 'Roses', 'Acorns'.
+
 ## 0001.10 Compatibility
 * **0001.10.1** Cards whose name contains the word 'Spade' are of the Suit 'Spades'.
 * **0001.10.2** Cards whose name contains the word 'Heart' are of the Suit 'Hearts'.
 * **0001.10.3** Cards whose name contains the word 'Diamond' are of the Suit 'Diamonds'.
 * **0001.10.4** Cards whose name contains the word 'Club' are of the Suit 'Clubs'.
-* **0001.10.5** Each playing card has a Color.  Playing cards of the Suit 'Spades' or 'Clubs' are black, and playing cards of the Suit 'Hearts' or 'Diamonds' are red.
+* **0001.10.5** Each playing card has a Color.  For playing cards, the following suits correlate to the given color: 'Spades' and 'Clubs' are black; 'Hearts' and 'Diamonds' are red; 'Leaves' are green; 'Bells', 'Acorns', and 'Coins' are yellow; 'Swords' and 'Cups' are blue.  'Roses' are white.
