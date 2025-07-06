@@ -24,7 +24,7 @@
 * **0001.9.1.2** German-suited playing cards include the Suits 'Bells', 'Acorns', 'Leaves'.
 ### Spanish-suited
 * **0001.9.2** Spanish-suited playing cards have the following exceptions.
-* **0001.9.2.1** Spanish-suited playing cards include the Ranks '11' and '12'
+* **0001.9.2.1** Spanish-suited playing cards include the Ranks '1', '11' and '12'
 * **0001.9.2.2** Spanish-suited playing cards include the Suits 'Swords', 'Cups', 'Coins'.
 ### Italian-suited
 * **0001.9.3** Italian-suited playing cards have the following exceptions.
