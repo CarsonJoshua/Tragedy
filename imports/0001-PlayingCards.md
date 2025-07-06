@@ -35,8 +35,5 @@
 * **0001.9.4.2** Swiss-suited playing cards include the Suits 'Bells', 'Shields', 'Roses', 'Acorns'.
 
 ## 0001.10 Compatibility
-* **0001.10.1** Cards whose name contains the word 'Spade' are of the Suit 'Spades'.
-* **0001.10.2** Cards whose name contains the word 'Heart' are of the Suit 'Hearts'.
-* **0001.10.3** Cards whose name contains the word 'Diamond' are of the Suit 'Diamonds'.
-* **0001.10.4** Cards whose name contains the word 'Club' are of the Suit 'Clubs'.
-* **0001.10.5** Each playing card has a Color.  For playing cards, the following suits correlate to the given color: 'Spades' and 'Clubs' are black; 'Hearts' and 'Diamonds' are red; 'Leaves' are green; 'Bells', 'Acorns', and 'Coins' are yellow; 'Swords' and 'Cups' are blue.  'Roses' are white.
+* **0001.10.1** Cards with a name containing the word 'Spade' or 'Shovel' are of the Suit 'Spades'; containing the word 'Heart' are of the Suit 'Hearts'; containing the word 'Diamond' are of the Suit 'Diamonds'; containing the word 'Club' are of the Suit 'Clubs'; containing the word 'Bell' are of the Suit 'Bells'; containing the word 'Acorn' are of the Suit 'Acorns'; containing the word 'Leaf' are of the Suit 'Leaves'; containing the word 'Sword' are of the Suit 'Swords'; containing the word 'Cup', 'Goblet', or 'Chalice' are of the Suit 'Cups', ; containing the word 'Coin' are of the Suit 'Coins'; containing the word 'Shield' are of the Suit 'Shields'; containing the word 'Rose' are of the Suit 'Roses'.
+* **0001.10.2** Each playing card has a Color.  For playing cards, the following suits correlate to the given color: 'Spades' and 'Clubs' are black; 'Hearts' and 'Diamonds' are red; 'Leaves' are green; 'Bells', 'Acorns', and 'Coins' are yellow; 'Swords' and 'Cups' are blue.  'Roses' are white.
