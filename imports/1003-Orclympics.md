@@ -17,3 +17,6 @@
 ## 1003.4 Roles
 * **1003.4.1** Orc-lympians are Actors.
 * **1003.4.2** Competitions are Sets.
+
+## 1003.10 Compatibility
+* **1003.10.1** Competitions have the Suit 'Cups'
