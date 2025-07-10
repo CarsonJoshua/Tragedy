@@ -33,6 +33,8 @@
 * **0002.3.4** As an exception, a Deck may have any number of basic land cards, despite them being the same card as eachother.
 * **0002.3.5** A player may only play one Magic the Gathering land card per turn.  This does not apply to other Set cards.
 * **0002.3.6** "Counter target spell" moves an Act on the Stack to the Discard.  "Target spell" cannot be used to target an Act that was chosen to be played as a Set.
+* **0002.3.7** Land cards have a Value equal to the amount of mana they can produce.
+* **0002.3.8** Land cards have a Color property of the color or colors of mana they can produce.
 
 
 
